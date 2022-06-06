@@ -1,0 +1,143 @@
+{
+  "sections": [
+    {
+      "id": "intro",
+      "data": [
+        {
+          "tier": 1,
+          "exercises": [
+            {
+              "id": "1",
+              "learner": {
+                "level": 5,
+                "lesson": 3,
+                "isCompleted": true
+              },
+              "definition": {
+                "name": "Basics 1",
+                "levels": 5,
+                "lessons": 3
+              }
+            }
+          ]
+        },
+        {
+          "tier": 2,
+          "exercises": [
+            {
+              "id": "2",
+              "learner": {
+                "level": 5,
+                "lesson": 1,
+                "isCompleted": false
+              },
+              "definition": {
+                "name": "The",
+                "levels": 5,
+                "lessons": 3
+              }
+            }
+          ]
+        },
+        {
+          "tier": 3,
+          "exercises": [
+            {
+              "id": "3",
+              "learner": {
+                "level": 4,
+                "lesson": 2,
+                "isCompleted": false
+              },
+              "definition": {
+                "name": "Basics 2",
+                "levels": 5,
+                "lessons": 4
+              }
+            },
+            {
+              "id": "4",
+              "learner": {
+                "level": 3,
+                "lesson": 2,
+                "isCompleted": false
+              },
+              "definition": {
+                "name": "Phrases",
+                "levels": 5,
+                "lessons": 3
+              }
+            }
+          ]
+        },
+        {
+          "tier": 4,
+          "exercises": [
+            {
+              "id": "5",
+              "learner": {
+                "level": 3,
+                "lesson": 0,
+                "isCompleted": false
+              },
+              "definition": {
+                "name": "Acc. Case",
+                "levels": 6,
+                "lessons": 2
+              }
+            },
+            {
+              "id": "6",
+              "learner": {
+                "level": 2,
+                "lesson": 1,
+                "isCompleted": false
+              },
+              "definition": {
+                "name": "Intro",
+                "levels": 5,
+                "lessons": 3
+              }
+            }
+          ]
+        },
+        {
+          "tier": 5,
+          "exercises": [
+            {
+              "id": "7",
+              "learner": {
+                "level": 1,
+                "lesson": 1,
+                "isCompleted": false
+              },
+              "definition": {
+                "name": "Food 1",
+                "levels": 5,
+                "lessons": 6
+              }
+            }
+          ]
+        },
+        {
+          "tier": 6,
+          "exercises": [
+            {
+              "id": "8",
+              "learner": {
+                "level": 0,
+                "lesson": 0,
+                "isCompleted": false
+              },
+              "definition": {
+                "name": "Animals 1",
+                "levels": 5,
+                "lessons": 3
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
